@@ -1,0 +1,54 @@
+
+
+
+h1 {
+  font-family: 'Amatic SC', cursive;
+  font-size: 60px;
+  text-align: center;
+}
+
+h2 {
+  font-family: cursive;
+  font-family: 'Amatic SC', cursive;
+  font-size: 55px;
+  text-align: center;
+}
+
+h3 {
+  font-size: 20px;
+  text-align: center;
+  font-family: 'Frank Ruhl Libre', serif;
+}
+
+h4 {
+  font-size: 65px;
+  text-align: center;
+  font-family: 'Amatic SC', cursive;
+
+}
+
+.full-page {
+background-image: url(https://wallpaperaccess.com/full/32744.jpg);
+}
+
+.conversation {
+  border: 5px dashed #FFFFFF;
+  border-radius: 10%;
+  width: 33%;
+  margin: auto;
+  font-family: 'Frank Ruhl Libre', serif;
+  font-size: 18px;
+}
+
+
+button {
+  height: 100px;
+  width: 400px;
+  border-radius: 300px;
+  font-size:35px;
+  font-family: 'Dancing Script', cursive;
+  background-image: url(https://i.gifer.com/HMgb.gif);
+  border: 5px dashed #FFFFFF;
+  margin-top: 50px;
+
+}
